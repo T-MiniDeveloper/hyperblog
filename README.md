@@ -1,5 +1,5 @@
 # BlogRepo Project 💚
-Bienvenido Al Repositorio de Github de el curso de platszi de Git y Github
+Bienvenido Al Repositorio de Github de el curso de platzi de Git y Github
 > "La Unica  forma  
 de hacer un gran trabajo,
 es amar lo que haces"
